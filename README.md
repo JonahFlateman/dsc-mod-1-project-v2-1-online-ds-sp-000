@@ -36,4 +36,6 @@ For this project we will be using datasets provided to us by The Numbers ('tn.mo
 * Further analyze our successful genre ROIs and study data and more successful movies in a specific genre
 * Look at user rating as a possible metric of success and identify the role of outlier data points
 
+![alt text](https://github.com/JonahFlateman/dsc-mod-1-project-v2-1-online-ds-sp-000/blob/master/images/image1.png "bar plot")
 
+![alt text](https://github.com/JonahFlateman/dsc-mod-1-project-v2-1-online-ds-sp-000/blob/master/images/image2.png "unstacked bar plot")
