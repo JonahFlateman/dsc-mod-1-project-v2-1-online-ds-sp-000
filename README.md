@@ -39,3 +39,11 @@ For this project we will be using datasets provided to us by The Numbers ('tn.mo
 ![alt text](https://github.com/JonahFlateman/dsc-mod-1-project-v2-1-online-ds-sp-000/blob/master/images/image1.png "bar plot")
 
 ![alt text](https://github.com/JonahFlateman/dsc-mod-1-project-v2-1-online-ds-sp-000/blob/master/images/image2.png "unstacked bar plot")
+
+## Recommendations
+
+* Use ROI comapred with production budget as guide
+* Explore more moderately-budged genres such as Comedy
+* Value the user rating including outliers without putting extra weight on highest or lowest values
+
+
