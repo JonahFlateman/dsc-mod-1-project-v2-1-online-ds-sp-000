@@ -42,8 +42,8 @@ For this project we will be using datasets provided to us by The Numbers ('tn.mo
 
 ## Recommendations
 
-* Use ROI comapred with production budget as guide
-* Explore more moderately-budged genres such as Comedy
+* Use ROI compared with production budget as guide
+* Explore more moderately-budgeted genres such as Comedy
 * Value the user rating including outliers without putting extra weight on highest or lowest values
 
 
